@@ -6,7 +6,7 @@ The game features a ball controlled by two magnets. The ball is repelled by the 
 
 Press the "Left Arrow Key" to change the color of the left magnet and the "Right Arrow Key" to change the color of the right magnet.
 
-Download the game: https://nafets94.itch.io/magnetic-duality
+Download the game executable: https://nafets94.itch.io/magnetic-duality
 
 ![img1](https://img.itch.zone/aW1hZ2UvMTM2NTA5OC83OTQ2ODA2LnBuZw==/original/oY8APl.png)
 ![img2](https://img.itch.zone/aW1hZ2UvMTM2NTA5OC83OTQ2ODA3LnBuZw==/original/CVyrWi.png)
